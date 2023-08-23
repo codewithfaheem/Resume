@@ -168,27 +168,6 @@ const skills = [
       'I am well-versed in React, proficient in creating reusable components and managing application state using hooks and context.',
   },
   {
-    id: 'java',
-    title: 'Java',
-    icon: javaIcon,
-    description:
-      'I have extensive experience utilizing Java for object-oriented programming (OOP) and implementing data structures.',
-  },
-  {
-    id: 'aws',
-    title: 'Amazon Web Services',
-    icon: awsIcon,
-    description:
-      'I am certified in AWS and proficient in working with EC2 and RDS instances, leveraging the power of cloud computing for scalable and reliable infrastructure.',
-  },
-  {
-    id: 'figma',
-    title: 'Figma',
-    icon: figmaIcon,
-    description:
-    'In my Figma skills, I unleash creativity, designing captivating user interfaces and collaborating seamlessly with designers and developers.',
-  },
-  {
     id: 'git',
     title: 'Git',
     icon: gitIcon,
@@ -203,53 +182,11 @@ const skills = [
       'I am skilled in using GitHub for seamless project collaboration, code sharing, and issue tracking. Through GitHub, I efficiently create and manage repositories and effectively present my work to potential employers.',
   },
   {
-    id: 'psql',
-    title: 'Postgresql',
-    icon: psqlIcon,
-    description:
-      'I have a strong command of PostgreSQL, encompassing a wide range of skills such as database normalization, triggers, front-end connectivity, and data analysis using software like Power BI.',
-  },
-  {
-    id: 'vite',
-    title: 'Vite',
-    icon: viteIcon,
-    description:
-      'I have gained considerable experience working with Vite for approximately six months, leveraging its capabilities to build React websites and seamlessly deploy them on platforms like Netlify.',
-  },
-  {
-    id: 'py',
-    title: 'Python',
-    icon: pyIcon,
-    description:
-      'With 3 years of Python experience, I am adept at coding functions and creating graphic interfaces using Tkinter.',
-  },
-  {
     id: 'node',
     title: 'Node',
     icon: nodeIcon,
     description:
       'When it comes to building web applications, I prefer using Node as my runtime environment over Yarn. I have expertise in leveraging Node.js to develop powerful and scalable web applications.',
-  },
-  {
-    id: 'neo',
-    title: 'Neo4j',
-    icon: neoIcon,
-    description:
-      'I am knowledgeable in Neo4j, the graph database management system. I have expertise in utilizing GraphOS to build robust recommendation systems, leveraging the strength of graph-based data modeling.',
-  },
-  {
-    id: 'raspi',
-    title: 'Raspberry Pi',
-    icon: raspIcon,
-    description:
-      'I have hands-on experience with Raspberry Pi, where I utilized a virtual Linux machine to execute programs written in assembly language. This allowed me to explore low-level computing and develop efficient code for the Raspberry Pi platform.',
-  },
-  {
-    id: 'eslint',
-    title: 'Eslint',
-    icon: eslintIcon,
-    description:
-      'I utilize ESLint to identify and resolve code issues, as well as standardize the structure of my projects. With ESLint, I ensure code quality and consistency throughout my development process.',
   },
 ];
 
