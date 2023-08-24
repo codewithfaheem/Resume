@@ -81,13 +81,13 @@ const icons = {
 
 const introduction = {
   text: [
-    "Hello there, I'm so happy you are here! (:",
+    "Hey there, I'm so happy you are here! (:",
 
-    "My name is Sara, I'm 20 and a third year computer science student based in Guatemala. I have a strong passion for the technologies related to the data base construction and UX.",
+    "I'm a passionate front-end developer who's all about crafting web experiences that seamlessly blend design and functionality. My toolkit includes a strong grasp of HTML, CSS, and JavaScript, and I'm really into the latest front-end technologies. I get a kick out of building dynamic interfaces using React – it's my go-to for creating user interactions that truly stand out.",
 
-    "Outside of my regular activities, I'm into drawing whenever I have some free time. I'm also a huge dog lover and enjoy playing chess for fun.",
+    "When it comes to design, I've got a soft spot for Bootstrap and Tailwind CSS. They're like my secret weapons for whipping up responsive and super engaging layouts that catch the eye. And you know what? I'm always on the lookout for new stuff to learn – I believe that staying in the loop with industry trends and innovations keeps the creative juices flowing.",
 
-    "I'm continuously thrilled to partner with individuals and teams who wholeheartedly embrace my fervor for crafting extraordinary experiences. Your visit to my portfolio is deeply appreciated !",
+    "Collaboration is my jam. I thrive when working with teams, contributing my skills to make sure the code is top-notch and performance is on point. Plus, I've got a nifty skillset in Express that adds another layer to what I bring to the table. It's all about crafting full-stack solutions that make users smile from ear to ear.",
   ],
 };
 

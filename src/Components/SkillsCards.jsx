@@ -17,7 +17,7 @@ const SkillsCards = () => {
 
       {skills.map((skill, index) => (
         <div key={index}
-          className="card w-[300px] flex flex-col items-center  bg-primary-400 rounded-xl border-4 border-primary-600 cursor-default"
+          className="card w-[100px] flex flex-col items-center  bg-primary-400 rounded-xl border-4 border-primary-600 cursor-default"
         >
           <div className="w-full flex items-center gap-2 p-1 flex-col">
             <img
@@ -26,27 +26,16 @@ const SkillsCards = () => {
               alt={skill.title}
             />
             <span
-              className="text-xl"
+              className="text-sm"
               style={{
                 fontFamily: "Poppins, sans-serif",
-                fontWeight: "bold",
               }}
             >
               {skill.title}
             </span>
-            <span
-              className="text-center bg-primary-400 text-grayscale-950 rounded-xl text-sm p-4"
-              style={{
-                fontFamily: "Poppins, sans-serif",
-                fontWeight: "400",
-              }}
-            >
-              {skill.description}
-            </span>
           </div>
         </div>
       ))}
-    {/* </LazyMotion> */}
     </div>
   );
 };
